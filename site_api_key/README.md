@@ -11,7 +11,7 @@ CONTENTS OF THIS FILE
 INTRODUCTION
 ------------
 
-A Site Api Key Moduel is responsible to add add configuration field in site
+A Site Api Key Moduel is responsible to add configuration field in site
 information Form.
 
 
