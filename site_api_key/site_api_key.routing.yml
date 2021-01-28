@@ -1,0 +1,8 @@
+
+site_api_key.site_api_key_controller_index:
+  path: '/page_json/{api_key}/{node_id}'
+  defaults:
+    _controller: '\Drupal\site_api_key\Controller\SiteApiController::index'
+    _title: 'Node JSON Representation'
+  requirements:
+    _permission: 'access content'

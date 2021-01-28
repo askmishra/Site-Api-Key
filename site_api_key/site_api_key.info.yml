@@ -1,0 +1,9 @@
+name: 'Site api Key'
+type: module
+description: 'This module is extend Site Information form to add custom site api key field.'
+core: 8.x
+core_version_requirement: ^8 || ^9
+package: 'Custom'
+dependencies:
+  - drupal:serialization
+
